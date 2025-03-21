@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?duration=2000&pause=5000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Tenho+18+anos;Sou+estudante+de+Eng.+De+Software
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Tenho+18+anos;Sou+estudante+de+Eng.+De+Software)](https://git.io/typing-svg)
 ###
 
 <div align="center">
