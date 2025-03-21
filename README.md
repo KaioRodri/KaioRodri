@@ -1,5 +1,4 @@
-<h2 align="left">Olá!, meu nome é Kaio Rodrigues, tenho 18 anos e estou cursando eng. de software.</h2>
-
+https://readme-typing-svg.demolab.com/demo/?duration=2000&pause=5000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Tenho+18+anos;Sou+estudante+de+Eng.+De+Software
 ###
 
 <div align="center">
